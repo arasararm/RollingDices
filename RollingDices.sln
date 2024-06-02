@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RollingDices", "RollingDices\RollingDices.csproj", "{7D0CFE00-C745-45EB-9903-4859AAC114C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceBoard", "DiceBoard\DiceBoard.csproj", "{3B64AD4A-9FDF-41D0-8066-F3571E2AC5CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0CFE00-C745-45EB-9903-4859AAC114C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0CFE00-C745-45EB-9903-4859AAC114C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0CFE00-C745-45EB-9903-4859AAC114C5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7D0CFE00-C745-45EB-9903-4859AAC114C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0CFE00-C745-45EB-9903-4859AAC114C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0CFE00-C745-45EB-9903-4859AAC114C5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3B64AD4A-9FDF-41D0-8066-F3571E2AC5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B64AD4A-9FDF-41D0-8066-F3571E2AC5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B64AD4A-9FDF-41D0-8066-F3571E2AC5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B64AD4A-9FDF-41D0-8066-F3571E2AC5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49AFEEF0-F283-43E5-9B2A-009D56F4A70C}
+	EndGlobalSection
+EndGlobal
